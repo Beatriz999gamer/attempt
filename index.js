@@ -14,7 +14,7 @@ function integrate (f, start, end, step) {
   }
 
   function factorial(x) {
-      return integrate(gamma,0,mathlib.Infinity)
+      return integrate(gamma,0,math.Infinity)
   }
 
   console.log(factorial(1))
