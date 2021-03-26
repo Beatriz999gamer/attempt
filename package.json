@@ -1,0 +1,25 @@
+{
+  "name": "attempt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "mathjs": "^9.3.0",
+    "math": "^0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beatriz999gamer/attempt.git"
+  },
+  "author": "bea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Beatriz999gamer/attempt/issues"
+  },
+  "homepage": "https://github.com/Beatriz999gamer/attempt#readme"
+}
